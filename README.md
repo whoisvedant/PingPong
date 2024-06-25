@@ -16,7 +16,8 @@ Pong is a simple 2D sports game where players control paddles on either side of 
 # How to Play:
 Player 1 controls:
 - Up Arrow: Move paddle up
-- Down Arrow: Move paddle down
+- Down Arrow: Move paddle down.
+
 Player 2 controls:
 - W: Move paddle up
 - S: Move paddle down
